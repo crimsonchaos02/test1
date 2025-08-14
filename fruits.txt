@@ -2,3 +2,5 @@ apples
 bananas
 cherries
 dragon
+egg
+fig
